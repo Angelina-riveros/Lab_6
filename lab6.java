@@ -28,7 +28,7 @@ public class Lab6 {
     		return 100;
     	}else if(romanLetter == 'D') {
     		return 500;
-    	}else if(romanLetter == 'M') {
+    	}else {
     		return 1000;
     	}
     }
